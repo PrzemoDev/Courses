@@ -1,1 +1,2 @@
 # Courses
+# SoloLearn - Major Subjects.
